@@ -1,0 +1,11 @@
+var R=require("../../../../../../chunks/[turbopack]_runtime.js")("server/app/api/admin/course-applications/[id]/status-history/route.js")
+R.c("server/chunks/[root-of-the-server]__17vojwqu_cf1b._.js")
+R.c("server/chunks/_096fxyl9d66yn._.js")
+R.c("server/chunks/src_lib_auth_ts_1cmzhhxbffvde._.js")
+R.c("server/chunks/_13qfscp3t0249._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/node_modules_next_1gv5j_bwu16s1._.js")
+R.c("server/chunks/[root-of-the-server]__0w9t539thpb33._.js")
+R.c("server/chunks/0ivl_api_admin_course-applications_[id]_status-history_route_actions_1f0u9s43f0_ae.js")
+R.m(96832)
+module.exports=R.m(96832).exports

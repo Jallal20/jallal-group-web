@@ -1,0 +1,13 @@
+var R=require("../../../../../chunks/[turbopack]_runtime.js")("server/app/api/admin/course-applications/[id]/route.js")
+R.c("server/chunks/[root-of-the-server]__0m3lejnja8k_q._.js")
+R.c("server/chunks/src_lib_notifications_ts_1yak_klirffr1._.js")
+R.c("server/chunks/src_lib_course-applications_ts_1c3fht1e035or._.js")
+R.c("server/chunks/src_lib_auth_ts_1cmzhhxbffvde._.js")
+R.c("server/chunks/_0xg7uc3519_n5._.js")
+R.c("server/chunks/node_modules_next_1gv5j_bwu16s1._.js")
+R.c("server/chunks/_13qfscp3t0249._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/[root-of-the-server]__0w9t539thpb33._.js")
+R.c("server/chunks/1oeh_server_app_api_admin_course-applications_[id]_route_actions_0dq6w2gev3l9f.js")
+R.m(43488)
+module.exports=R.m(43488).exports

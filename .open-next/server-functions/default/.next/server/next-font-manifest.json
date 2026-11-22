@@ -1,0 +1,220 @@
+{
+  "app": {
+    "[project]/src/app/_not-found/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/about/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/activities/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/activities/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/admin-profiles/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/admin-profiles/new/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/admin-profiles/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/audit-logs/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/companies/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/course-categories/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/digital-ventures/new/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/digital-ventures/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/elevate-360/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/elevate-360/projects/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/elevate-360/projects/new/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/elevate-360/projects/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/forbidden/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/general-settings/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/inquiries/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/inquiries/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/course-applications/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/course-applications/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/courses/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/courses/new/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/courses/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/enrollments/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/enrollments/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/payments/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-institute/payments/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-properties/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-properties/projects/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-properties/properties/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-properties/properties/new/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-properties/properties/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-tech/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-tech/projects/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-tech/projects/new/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/jallal-tech/projects/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/login/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/media-library/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/notifications/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/reports/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/roles/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/security-settings/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/site-settings/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/training-activities/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/training-application-forms/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/training-applications/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/training-learning-materials/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/training-program-announcements/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/training-programs/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/admin/training-students/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/companies/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/companies/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/courses/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/courses/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/digital-ventures/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/our-companies/[slug]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/our-companies/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/partnerships/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/privacy-policy/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/student/apply/[activityId]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/student/course-applications/[id]/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/student/course-applications/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/student/dashboard/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/student/login/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/student/register/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ],
+    "[project]/src/app/terms-of-use/page": [
+      "static/media/d8aeca813a9ab546-s.p.18rizl4rsrl42.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pages": {},
+  "pagesUsingSizeAdjust": false
+}

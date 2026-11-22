@@ -1,0 +1,12 @@
+var R=require("../../../../chunks/[turbopack]_runtime.js")("server/app/api/admin/program-enrollments/route.js")
+R.c("server/chunks/[externals]_fs_0202g1f8p9fuv._.js")
+R.c("server/chunks/src_lib_auth_ts_1cmzhhxbffvde._.js")
+R.c("server/chunks/[root-of-the-server]__0njcsn1uqb1k6._.js")
+R.c("server/chunks/src_lib_program-enrollments_ts_1zacexyil-82u._.js")
+R.c("server/chunks/_19x1jadw6j09v._.js")
+R.c("server/chunks/[root-of-the-server]__1v1-l-83czzsr._.js")
+R.c("server/chunks/node_modules_next_1gv5j_bwu16s1._.js")
+R.c("server/chunks/_13qfscp3t0249._.js")
+R.c("server/chunks/1oeh_server_app_api_admin_program-enrollments_route_actions_01l1q2yhwmfjl.js")
+R.m(67854)
+module.exports=R.m(67854).exports

@@ -1,0 +1,57 @@
+▲ Next.js 16.4.5 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://10.112.196.145:3000
+- Environments: .env.local
+✓ Ready in 1743ms
+✓ Running next.config.ts took 103ms
+
+○ Compiling / ...
+[appwrite] ping: connection established
+ GET / 200 in 3.2s (next.js: 868ms, application-code: 2.3s)
+ GET /projects 200 in 793ms (next.js: 42ms, application-code: 751ms)
+ GET / 200 in 710ms (next.js: 3ms, application-code: 706ms)
+ GET /about 200 in 246ms (next.js: 63ms, application-code: 183ms)
+ GET /partnerships 200 in 224ms (next.js: 34ms, application-code: 190ms)
+ GET / 200 in 7.7s (next.js: 4ms, application-code: 7.7s)
+✓ Compiled in 2.9s
+ GET / 200 in 1352ms (next.js: 4ms, application-code: 1348ms)
+✓ Compiled in 2.3s
+ GET /about 200 in 186ms (next.js: 7ms, application-code: 179ms)
+✓ Compiled in 418ms
+ GET /about 200 in 151ms (next.js: 6ms, application-code: 145ms)
+ GET /about 200 in 990ms (next.js: 7ms, application-code: 983ms)
+ GET / 200 in 707ms (next.js: 5ms, application-code: 701ms)
+ GET / 200 in 1894ms (next.js: 4ms, application-code: 1890ms)
+ GET / 200 in 21ms (next.js: 4ms, application-code: 18ms)
+ GET / 200 in 608ms (next.js: 4ms, application-code: 605ms)
+ GET /about 200 in 63ms (next.js: 4ms, application-code: 59ms)
+ GET / 200 in 684ms (next.js: 3ms, application-code: 680ms)
+ GET /companies/jallal-tech 200 in 1937ms (next.js: 37ms, generate-params: 1798ms, application-code: 101ms)
+ GET /companies/jallal-institute-of-technology 200 in 126ms (next.js: 4ms, generate-params: 13ms, application-code: 109ms)
+ GET /partnerships 200 in 69ms (next.js: 3ms, application-code: 66ms)
+ GET /companies/jallal-institute-of-technology 200 in 137ms (next.js: 5ms, generate-params: 12ms, application-code: 120ms)
+ GET /companies/elevate-360 200 in 192ms (next.js: 5ms, generate-params: 19ms, application-code: 168ms)
+ GET /partnerships 200 in 163ms (next.js: 10ms, application-code: 153ms)
+ GET /companies/elevate-360 200 in 225ms (next.js: 8ms, generate-params: 19ms, application-code: 197ms)
+[appwrite] ping: connection established
+ POST /api/admin/login 200 in 3.3s (next.js: 2.5s, proxy.ts: 114ms, application-code: 683ms)
+ GET /admin/login 200 in 1693ms (next.js: 1437ms, proxy.ts: 9ms, application-code: 247ms)
+ POST /api/admin/login 200 in 1632ms (next.js: 140ms, proxy.ts: 11ms, application-code: 1480ms)
+ GET /admin/login 200 in 309ms (next.js: 122ms, proxy.ts: 8ms, application-code: 179ms)
+ POST /api/admin/login 200 in 1965ms (next.js: 24ms, proxy.ts: 9ms, application-code: 1931ms)
+ POST /api/admin/login 200 in 2000ms (next.js: 7ms, proxy.ts: 7ms, application-code: 1985ms)
+ POST /api/admin/login 200 in 533ms (next.js: 7ms, proxy.ts: 10ms, application-code: 516ms)
+ POST /api/admin/login 200 in 1304ms (next.js: 9ms, proxy.ts: 10ms, application-code: 1285ms)
+ GET /admin 307 in 1254ms (next.js: 965ms, proxy.ts: 10ms, application-code: 279ms)
+ POST /api/admin/login 429 in 86ms (next.js: 65ms, proxy.ts: 7ms, application-code: 15ms)
+ POST /api/admin/login 429 in 37ms (next.js: 13ms, proxy.ts: 9ms, application-code: 15ms)
+ GET /api/health 404 in 976ms (next.js: 698ms, application-code: 278ms)
+ GET /admin/login 200 in 210ms (next.js: 42ms, proxy.ts: 7ms, application-code: 161ms)
+ GET /admin 200 in 8.8s (next.js: 85ms, proxy.ts: 10ms, application-code: 8.7s)
+ GET /admin/login 200 in 296ms (next.js: 106ms, proxy.ts: 8ms, application-code: 182ms)
+ POST /api/admin/login 200 in 3.1s (next.js: 36ms, proxy.ts: 9ms, application-code: 3.0s)
+ GET /admin 307 in 296ms (next.js: 38ms, proxy.ts: 11ms, application-code: 246ms)
+ POST /api/admin/login 200 in 1155ms (next.js: 84ms, proxy.ts: 6ms, application-code: 1064ms)
+ GET /admin 200 in 2.4s (next.js: 43ms, proxy.ts: 7ms, application-code: 2.3s)
+✓ Compiled in 2.9s
+ GET /admin/login 200 in 494ms (next.js: 238ms, proxy.ts: 5ms, application-code: 250ms)

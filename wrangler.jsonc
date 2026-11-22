@@ -1,0 +1,54 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jallal-group-web",
+  "account_id": "0585d81718aee498a274a28d4548f06d",
+  "main": ".open-next/worker.js",
+  "compatibility_date": "2025-11-01",
+  "compatibility_flags": ["nodejs_compat"],
+  "vars": {
+    "NEXT_PUBLIC_APPWRITE_ENDPOINT": "https://fra.cloud.appwrite.io/v1",
+    "NEXT_PUBLIC_APPWRITE_PROJECT_ID": "6af18b620028fbfccf7a",
+    "NEXT_PUBLIC_APPWRITE_DATABASE_ID": "jallal_group",
+    "NEXT_PUBLIC_APPWRITE_INQUIRIES_COLLECTION_ID": "inquiries",
+    "NEXT_PUBLIC_APPWRITE_COMPANIES_COLLECTION_ID": "companies",
+    "NEXT_PUBLIC_APPWRITE_COURSE_CATEGORIES_COLLECTION_ID": "course_categories",
+    "NEXT_PUBLIC_APPWRITE_VENTURES_COLLECTION_ID": "ventures",
+    "NEXT_PUBLIC_APPWRITE_PROPERTIES_COLLECTION_ID": "properties",
+    "NEXT_PUBLIC_APPWRITE_PROPERTY_PROJECTS_COLLECTION_ID": "property_projects",
+    "NEXT_PUBLIC_APPWRITE_COURSES_COLLECTION_ID": "courses",
+    "NEXT_PUBLIC_APPWRITE_ENROLLMENTS_COLLECTION_ID": "enrollments",
+  "NEXT_PUBLIC_APPWRITE_COURSE_APPLICATIONS_COLLECTION_ID": "course_applications",
+    "NEXT_PUBLIC_APPWRITE_ELEVATE_PROJECTS_COLLECTION_ID": "elevate_projects",
+    "NEXT_PUBLIC_APPWRITE_TECH_PROJECTS_COLLECTION_ID": "tech_projects",
+    "NEXT_PUBLIC_APPWRITE_AUDIT_LOGS_COLLECTION_ID": "audit_logs",
+    "NEXT_PUBLIC_APPWRITE_SITE_SETTINGS_COLLECTION_ID": "site_settings",
+    "NEXT_PUBLIC_APPWRITE_ADMIN_PROFILES_COLLECTION_ID": "admin_profiles",
+    "NEXT_PUBLIC_APPWRITE_NOTIFICATIONS_COLLECTION_ID": "notifications",
+    "NEXT_PUBLIC_APPWRITE_DIGITAL_VENTURES_COLLECTION_ID": "digital_ventures",
+    "NEXT_PUBLIC_APPWRITE_ACTIVITIES_COLLECTION_ID": "activities",
+    "NEXT_PUBLIC_APPWRITE_APPLICATION_FORMS_COLLECTION_ID": "application_forms",
+    "NEXT_PUBLIC_APPWRITE_FORM_FIELDS_COLLECTION_ID": "form_fields",
+    "NEXT_PUBLIC_APPWRITE_APPLICATIONS_COLLECTION_ID": "applications",
+    "NEXT_PUBLIC_APPWRITE_STUDENTS_COLLECTION_ID": "students",
+    "NEXT_PUBLIC_APPWRITE_PROGRAM_ENROLLMENTS_COLLECTION_ID": "program_enrollments",
+    "NEXT_PUBLIC_APPWRITE_PROGRAM_ANNOUNCEMENTS_COLLECTION_ID": "program_announcements",
+    "NEXT_PUBLIC_APPWRITE_LEARNING_MATERIALS_COLLECTION_ID": "learning_materials",
+    "NEXT_PUBLIC_APPWRITE_INSTRUCTORS_COLLECTION_ID": "instructors",
+    "NEXT_PUBLIC_APPWRITE_PROGRAM_INSTRUCTORS_COLLECTION_ID": "program_instructors",
+    "NEXT_PUBLIC_APPWRITE_STUDENT_PROFILES_COLLECTION_ID": "student_profiles",
+    "NEXT_PUBLIC_APPWRITE_STORAGE_BUCKET_ID": "jallal_media",
+    "NEXT_PUBLIC_SITE_URL": "https://jallal-group-web.jallalgroup.workers.dev"
+  },
+  "assets": {
+    "binding": "ASSETS",
+    "directory": ".open-next/assets"
+  },
+  "observability": {
+    "enabled": true
+  },
+
+  // ── Server-only secrets (NOT in plain vars) ──────────────────
+  // Set these with `wrangler secret put` — never commit them here:
+  //   APPWRITE_API_KEY, ADMIN_EMAILS, ADMIN_BOOTSTRAP_TOKEN,
+  //   FORM_RATE_LIMIT_SECRET
+}

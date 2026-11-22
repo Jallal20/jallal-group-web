@@ -1,0 +1,817 @@
+globalThis.__BUILD_MANIFEST = {
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0cz1d0mv5g_q7.js"
+  ],
+  "lowPriorityFiles": [
+    "static/CiWByGMT0XxhOhuQm_7at/_buildManifest.js",
+    "static/CiWByGMT0XxhOhuQm_7at/_ssgManifest.js",
+    "static/CiWByGMT0XxhOhuQm_7at/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/1pcw6gskne7pf.js",
+    "static/chunks/1wnov70f88xjy.js",
+    "static/chunks/3jn_x8ihwq16e.js",
+    "static/chunks/41e8y3phv41bm.js",
+    "static/chunks/turbopack-2u1d16houkiyo.js"
+  ],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {
+    "/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_not-found/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/_global-error/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/about/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/activities/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/activities/[slug]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/admin-profiles/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/admin-profiles/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/admin-profiles/new/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/audit-logs/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/companies/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/course-categories/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/digital-ventures/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/digital-ventures/new/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/elevate-360/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/elevate-360/projects/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/elevate-360/projects/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/elevate-360/projects/new/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/forbidden/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/general-settings/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/inquiries/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/inquiries/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/course-applications/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/course-applications/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/courses/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/courses/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/courses/new/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/enrollments/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/enrollments/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/payments/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-institute/payments/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-properties/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-properties/projects/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-properties/properties/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-properties/properties/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-properties/properties/new/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-tech/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-tech/projects/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-tech/projects/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/jallal-tech/projects/new/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/login/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/media-library/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/notifications/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/reports/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/roles/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/security-settings/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/site-settings/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/training-activities/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/training-application-forms/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/training-applications/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/training-learning-materials/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/training-program-announcements/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/training-programs/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/admin/training-students/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/companies/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/companies/[slug]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/courses/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/courses/[slug]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/digital-ventures/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/our-companies/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/our-companies/[slug]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/partnerships/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/privacy-policy/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/student/apply/[activityId]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/student/course-applications/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/student/course-applications/[id]/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/student/dashboard/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/student/login/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/student/register/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    },
+    "/terms-of-use/page": {
+      "otherChunks": [
+        "static/chunks/1pcw6gskne7pf.js",
+        "static/chunks/1wnov70f88xjy.js",
+        "static/chunks/3jn_x8ihwq16e.js",
+        "static/chunks/41e8y3phv41bm.js"
+      ],
+      "runtimeModuleIds": [
+        94553
+      ]
+    }
+  },
+  "chunkLoadingGlobal": "TURBOPACK"
+};
