@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "jallal-group-web",
+  "name": "jallal-group-web-production",
   "account_id": "0585d81718aee498a274a28d4548f06d",
   "main": ".open-next/worker.js",
   "compatibility_date": "2025-11-01",
